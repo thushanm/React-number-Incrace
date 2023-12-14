@@ -1,0 +1,16 @@
+h1{
+  display: flex;
+
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+button{
+display: inline;
+  justify-self: center;
+  align-items: center;
+  background: red;
+}
